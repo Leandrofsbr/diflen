@@ -1281,13 +1281,15 @@ footer .credits a {
   }
 }
 
-
-
 .logo{
-  height: 30px; 
+  height: 25px; 
 }
 
-.space{
+.space-top{
+  margin-top: 5rem;
+}
+
+.space-bottom{
   margin-bottom: 4rem;
 }
 
